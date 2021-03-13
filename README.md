@@ -18,6 +18,9 @@
   </a>
 </p>
 
+## WARNING
+  Don't be dumb and use this on a non bot account you'll get yourself a permaban lmao
+
 ## Overview
 
 - [Credits](#credits)
